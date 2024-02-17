@@ -2,9 +2,9 @@
 '''
 The problem looked complex in the beginning, but it wasnt that much.
 
-1) Though it can be solved using 2 loops where we can for a particular character what will be the max length of non repeating substring.
+1) Though it can be solved using 2 loops where can find for a particular index what will be the max length of non repeating substring.
 
-2) Time Complexity for above Solution will be O(n^2) and constant Space complexity
+2) Time Complexity for above Solution will be O(n^2) and constant Space complexity.
 
 '''
 
@@ -23,7 +23,7 @@ Space Complexity-O(n)---for using set()
 
 
 def LongestSubstring(s):
-    #maxCnt stores the Maximum Lenght Non Repeating Substring
+    #maxCnt stores the Maximum Length Non Repeating Substring
     
     maxCnt=0
     #ans stores the uniqueness of substring between i & j
@@ -64,4 +64,5 @@ print(LongestSubstring(s))
 
 '''
 s="abdacfga"
+Output=6
 '''
