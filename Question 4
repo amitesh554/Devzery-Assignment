@@ -1,0 +1,11 @@
+There are few changes that are requires:--
+
+1) Instead of "what is your Email Id" we should simply write "Email Id".
+
+2) In the input section we should remove "My email id is".We an use Placeholder like "example@gmail.com".
+
+3) Similarly for Password, instead "Do you have Password", "Password" should be written.
+
+4) Since for a email there must be a password, so there is no use of 2 options."Forgotten your Password" can be rewritten as "Forget Password".
+
+5) Below that there must be 2 button "Sign In" and "Sign Out".
