@@ -4,7 +4,7 @@
 
 Based on this image there is few bugs/defect which is as follows:
 
-1) Misspelling:----  The word "Google" is misspelled as "Gooogle" in the search bar.
+1) Misspelling:----  The word "Google" is misspelled as "Gooogle" in the search bar. <br>
                      In the icon there is misspelled word "Hopping",it should be "Shopping".
                      At the left bottom corner "Done Done" is there which is of no use.
 
